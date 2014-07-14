@@ -1,0 +1,108 @@
+/* Colors */
+/*
+Green: 37CE81
+Blue: 375D81
+Red: FF5850
+Gray: 333333
+*/
+
+/* Universal */
+
+body {
+    color: #333333;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-family: open-sans;
+    font-weight: 300;
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+h4 {
+    font-family: open-sans;
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+h5 {
+    font-family: open-sans;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.green {
+    color: white;
+}
+
+.margin-top {
+    margin-top: 70px;
+}
+
+
+/* Section 1 */
+
+#section-1 {
+    background: url(../img/mountain2.jpg) left top no-repeat;
+    height: 650px;
+    border-bottom-style: groove;
+    border-bottom-width: 7px;
+    border-bottom-color: white;
+}
+
+#text-box-1 {
+    margin-top: 200px;
+}
+
+/* Section 2 */
+.img-mac {
+    margin-top: -40px;
+}
+
+/* Section 3 */
+#section-3 {
+    background: #f7f7f7;
+    padding-bottom: 70px;
+}
+
+/* Section 4 */
+.icons i {
+    padding: 30px;
+}
+
+.small-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background: #f7f7f7;
+    color: white;
+}
+
+footer h5,
+footer p {
+    color: #848484;
+    margin-top: 14px;
+}
+
+.bottom-nav li {
+    text-decoration: none;
+    text-align: left;
+    list-style: none;
+    color: #848484;
+}
+
+.bottom-nav a {
+    color: #848484;
+    text-decoration: underline;
+}
+
