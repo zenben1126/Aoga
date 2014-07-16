@@ -182,3 +182,30 @@ footer p {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.section-2h .button {
+    color: white;
+    margin-top: 45px;
+}
+
+.section-2h .button a {
+    color: white;
+}
+
+.skill {
+    margin-top: 10px;
+}
+
+.progress {
+    background: #f2eeee;
+}
+
+.blue {
+    background-color: #375D81;
+}
+
+.section-3h {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
